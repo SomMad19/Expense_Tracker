@@ -1,16 +1,3 @@
-
-// form.addEventListener("submit",function(event){
-//     event.preventDefault();
-//     const li = document.createElement("li"); 
-//     li.textContent = `${e_amt.value} - ${e_descr.value} - ${type.value}`;
-//     data.appendChild(li);
-//     e_amt.value = "";
-//     e_descr.value = "";
-//     type.value = "fuel";
-
-
-// })
-
 const form = document.querySelector("form");
 const e_amt = document.getElementById("amt");
 const e_descr = document.getElementById("descr");
