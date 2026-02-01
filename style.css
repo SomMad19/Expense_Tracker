@@ -1,0 +1,17 @@
+*{
+    background-color: black;
+    color: antiquewhite;
+}
+
+input{
+    background-color: midnightblue;
+}
+button{
+    background-color: navy;
+}
+.delete{
+    background-color: rgb(73, 0, 0);
+}
+.edit{
+    background-color: rgb(3, 10, 59);
+}
